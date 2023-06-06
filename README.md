@@ -25,7 +25,7 @@ http://localhost:5082/irab?start=2:255
 
 
 
-#some issues fixed in htmls
+# some issues fixed in htmls
 [001] Ayah 6 repeated
 [005=>122:1015] Ayah 50 is marked 55
 [005=>294:3020] Ayah 98 is marked 89
